@@ -17,7 +17,7 @@ There are four python files:
 
 Run the initialize.py by setting the input params(activation func name, cost func name, number of epochs, learning rate, momentum, batch size,number of train batches,etc) as required. (Note that the encoding layers should be equal to the decoding layers)
 The code requires TrainImages, ValImages , TestImages to run.
-For demo purposes, the given run file(initialize.py) has few parameters pre initialized.
+For demo purposes, the given run file(initialize.py) has few parameters pre initialized. There are three demo cases available in the code, demo 1 is the default case but you and uncomment the other demos and check out how the experiment varies! :)
 
 
 Dataset:
